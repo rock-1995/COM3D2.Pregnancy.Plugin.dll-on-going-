@@ -1,12 +1,19 @@
 # COM3D2.Pregnancy.Plugin.dll-on-going-
+
 To make something similar to KKpregnancy
+
 Features so far:
+
 F1 → "COM3D2 Pregnancy" → Change hotkey
+
 **F8 **（hotkey by defaut）to activate UI
+
 In UI, you can set belly change.
+
 Max vaule 500, however actual uplimit is 40.
-We took some ideas from AddYotogiSlider of asyetriec. Thanks to asyetriec.
-Just started a few hours ago. Eventually we aim to make something like KK pregnancy.
+
+I took some ideas from AddYotogiSlider of asyetriec. Thanks to asyetriec.
+Just started a few hours ago. Eventually I hope to make something like KK pregnancy.
 
 For my next plan:
 UI Fixes
